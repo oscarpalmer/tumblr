@@ -8,7 +8,9 @@ All of my themes contain a lot of styling options, because I'm cool like that. T
 
 Gauges, Mint, and Typekit support is also included. _(Please let me know which other services you would like to see being supported)_
 
-__Gauges__: You'll find the ID under "Tracking Code" on the dashboard. __Mint__: the link to the Mint installation is required. __Typekit__: You'll find the Typekit ID under "Embed Code" within the kit editor.
+__Gauges__: You'll find the ID under "Tracking Code" on the dashboard.
+__Mint__: the link to the Mint installation is required.
+__Typekit__: You'll find the Typekit ID under "Embed Code" within the kit editor.
 
 ### 05-12
 
