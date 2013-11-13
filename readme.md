@@ -16,7 +16,7 @@ __Typekit__: You'll find the Typekit ID under "Embed Code" within the kit editor
 
 This is pretty much the same theme as I am using right now. _(05/2012)_
 
-Here's a [screenshot](http://d.opalmer.me/sEUm) of placeholder content and the default styling values.
+Here's a [screenshot](http://d.pr/sEUm) of placeholder content and the default styling values.
 
 ## Licence
 
