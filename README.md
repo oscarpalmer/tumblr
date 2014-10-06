@@ -2,8 +2,6 @@
 
 Some of my old Tumblr themes _might_ end up here.
 
-If you do end up using one of my themes, please send a link so I can see it out in the wild. :)
-
 ## Themes
 
 All of my themes contain a lot of styling options, because I'm cool like that. There's also an option to enter your real name for a meta tag and the footer. It's all in the same place, so it shouldn't be that confusing.
