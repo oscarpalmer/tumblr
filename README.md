@@ -1,6 +1,8 @@
-# Hello!
+# Tumblr themes
 
-Some of my old Tumblr themes _will_ end up here.
+Some of my old Tumblr themes _might_ end up here.
+
+If you do end up using one of my themes, please send a link so I can see it out in the wild. :)
 
 ## Themes
 
@@ -20,6 +22,4 @@ Here's a [screenshot](http://d.pr/sEUm) of placeholder content and the default s
 
 ## Licence
 
-There's no licence, just say thanks and then do what you want with it.
-
-If you do end up using one of my themes, please send a link so I can see it out in the wild. :)
+MIT Licensed; see the [LICENSE file](license) for more info.
